@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  top.xpit.common.exception.ExceptionCatch,\
+  top.xpit.common.base.BaseErrorNotice
