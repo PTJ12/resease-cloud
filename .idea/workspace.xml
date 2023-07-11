@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6d0c56c-ffa9-44bd-95bf-1f59c8449aaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-common/src/main/java/top/xpit/common/base/BaseErrorNotice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-common/src/main/java/top/xpit/common/exception/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-common/src/main/java/top/xpit/common/exception/ExceptionCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-common/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-common/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-feign-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-feign-api/src/main/java/top/xpit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-gateway/src/main/java/top/xpit/gateway/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-module/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-module/src/main/java/top/xpit/module/common/dtos/PageRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-module/src/main/java/top/xpit/module/common/dtos/PageResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-module/src/main/java/top/xpit/module/common/dtos/ResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-module/src/main/java/top/xpit/module/common/enums/AppHttpCodeEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-service/src/main/java/top/xpit/service/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research-utils/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6d0c56c-ffa9-44bd-95bf-1f59c8449aaa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689073037787</updated>
       <workItem from="1689073273926" duration="114000" />
-      <workItem from="1689073395694" duration="6322000" />
+      <workItem from="1689073395694" duration="6726000" />
     </task>
     <servers />
   </component>
